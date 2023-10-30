@@ -1,0 +1,36 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "city": "New York",
+      "isStudent": false,
+      "hobbies": ["Reading", "Hiking", "Cooking"],
+      "address": {
+        "street": "123 Main Street",
+        "zipCode": "10001"
+      }
+    },
+    {
+      "name": "Alice Smith",
+      "age": 25,
+      "city": "Los Angeles",
+      "isStudent": true,
+      "hobbies": ["Painting", "Swimming", "Dancing"],
+      "address": {
+        "street": "456 Elm Avenue",
+        "zipCode": "90002"
+      }
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 35,
+      "city": "Chicago",
+      "isStudent": false,
+      "hobbies": ["Golf", "Photography", "Traveling"],
+      "address": {
+        "street": "789 Oak Lane",
+        "zipCode": "60603"
+      }
+    }
+  ]
+  

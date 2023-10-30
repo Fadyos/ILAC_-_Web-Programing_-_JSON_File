@@ -1,7 +1,3 @@
-# ILAC_-_Web-Programing_-_JSON_File
-
-
-
 ## This is an HTML URL:
 - <a href="https://fadyos.github.io/ILAC_-_Web-Programing_-_JSON_File/simpleJSONFile.json"> Go to JSON File
 
